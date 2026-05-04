@@ -3,7 +3,7 @@
 class Livro
 {
   //guardando informações
-  public function _construct(
+  public function __construct(
     private string $titulo,
     private string $autor,
     private int $ano,
@@ -25,4 +25,4 @@ class Livro
   {
     return $this->genero;
   }
-    
+}
