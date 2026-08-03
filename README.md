@@ -1,4 +1,3 @@
-````md
 # OOP Library 📚
 
 The **Library Management System** is a project developed in **Java** and **PHP** to explore **Object-Oriented Programming (OOP)** concepts through different application environments.
@@ -71,4 +70,3 @@ livrariaPOO-main/
 ---
 
 Project developed for the **Web Programming II** and **Systems Development** course, demonstrating the application of OOP principles in both desktop (console) and web environments using Java and PHP.
-````
